@@ -1,6 +1,6 @@
 ## Hey there, I am using GitHub! 👋
 
-![Sin título-12](https://github.com/user-attachments/assets/0c8d89b9-49e2-4feb-8b7d-f9c82b91b41f)
+![Sin título-12](https://github.com/user-attachments/assets/aa961104-306f-4f3e-b5c5-9365a58c5d1e)
 
 _"Desarrollador Web. Entusiasta del Open Source. En aprendizaje constante. Construyendo la web, commit a commit."_
 
