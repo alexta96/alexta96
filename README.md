@@ -1,7 +1,6 @@
 ## Hey there, I am using GitHub! 👋
 
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/0442e086-41d2-47e0-8cce-69d69582b557" />
-
+![Sin título-12](https://github.com/user-attachments/assets/0c8d89b9-49e2-4feb-8b7d-f9c82b91b41f)
 
 _"Desarrollador Web. Entusiasta del Open Source. En aprendizaje constante. Construyendo la web, commit a commit."_
 
